@@ -1,4 +1,4 @@
-package cd.practice.dome.CommonCategories;
+package javaPracticeDome.cd.practice.dome.CommonCategories;
 
 public class dome1 {
 }

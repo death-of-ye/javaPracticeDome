@@ -1,3 +1,5 @@
+package javaPracticeDome.cd.practice.dome;
+
 /**
  * 数据类型转换案例
  * */

@@ -1,3 +1,5 @@
+package javaPracticeDome.cd.practice.dome;
+
 /**
  * 这是我的第一个JAVA程序 Hello World
  */

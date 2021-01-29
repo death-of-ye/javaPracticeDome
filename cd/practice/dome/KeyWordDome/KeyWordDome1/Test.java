@@ -1,4 +1,4 @@
-package cd.practice.dome.KeyWordDome.KeyWordDome1;
+package javaPracticeDome.cd.practice.dome.KeyWordDome.KeyWordDome1;
 /**
  *final关键字
  * 概述：

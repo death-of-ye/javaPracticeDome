@@ -1,4 +1,4 @@
-package cd.practice.dome.ProcessControlDome.whiledome;
+package javaPracticeDome.cd.practice.dome.ProcessControlDome.whiledome;
 /**
  * 循环结构之do...while
  * 格式

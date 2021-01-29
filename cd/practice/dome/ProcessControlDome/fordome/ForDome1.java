@@ -1,4 +1,4 @@
-package cd.practice.dome.ProcessControlDome.fordome;
+package javaPracticeDome.cd.practice.dome.ProcessControlDome.fordome;
 /**
  * 循环模式之for循环案例
  * 需求：打印1到5之间的数字

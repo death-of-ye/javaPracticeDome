@@ -1,4 +1,4 @@
-package cd.practice.dome.OperatorDome;
+package javaPracticeDome.cd.practice.dome.OperatorDome;
 /**
  * 概述：又叫三目运算符 有三部分组成
  * 格式：关系表达式?表达式1:表达式2;

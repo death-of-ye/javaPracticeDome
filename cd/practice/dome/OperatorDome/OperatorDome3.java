@@ -1,4 +1,4 @@
-package cd.practice.dome.OperatorDome;
+package javaPracticeDome.cd.practice.dome.OperatorDome;
 /**
  * 赋值运算符实例
  * 概述：把数据赋值给变量或常量

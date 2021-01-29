@@ -1,4 +1,4 @@
-package cd.practice.dome.ProcessControlDome;
+package javaPracticeDome.cd.practice.dome.ProcessControlDome;
 /***
  * scanner的基本使用
  * 概述：可以通过scanner类扫描用户在控制台输入的数据

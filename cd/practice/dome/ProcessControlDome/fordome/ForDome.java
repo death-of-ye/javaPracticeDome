@@ -1,4 +1,5 @@
-package cd.practice.dome.ProcessControlDome.fordome;
+
+package javaPracticeDome.cd.practice.dome.ProcessControlDome.fordome;
 /**
  * 循环结构之for循环
  * 格式

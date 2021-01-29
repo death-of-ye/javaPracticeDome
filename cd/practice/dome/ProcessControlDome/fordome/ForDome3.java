@@ -1,4 +1,5 @@
-package cd.practice.dome.ProcessControlDome.fordome;
+package javaPracticeDome.cd.practice.dome.ProcessControlDome.fordome;
+
 /**
  * 循环模式之for循环案例
  * 需求：计算1到1000之间的偶数之和

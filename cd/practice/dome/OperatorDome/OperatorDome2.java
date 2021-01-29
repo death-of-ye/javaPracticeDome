@@ -1,4 +1,4 @@
-package cd.practice.dome.OperatorDome;
+package javaPracticeDome.cd.practice.dome.OperatorDome;
 /**
  * ++或--
  * 概述：++：自身值+1 --：自身值-1

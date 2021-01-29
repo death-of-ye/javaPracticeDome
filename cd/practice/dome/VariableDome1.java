@@ -1,3 +1,5 @@
+package javaPracticeDome.cd.practice.dome;
+
 /**
  * 变量的数据类型
  * 基本类型

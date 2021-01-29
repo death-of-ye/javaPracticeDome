@@ -1,4 +1,4 @@
-package cd.practice.dome.OperatorDome;
+package javaPracticeDome.cd.practice.dome.OperatorDome;
 /**
  * 关系运算符实例
  * 概述：用于描述变量之间是否为相等关系

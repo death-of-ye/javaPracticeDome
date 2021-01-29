@@ -1,4 +1,4 @@
-package cd.practice.dome.methodsdome;
+package javaPracticeDome.cd.practice.dome.methodsdome;
 /**
  * 认识方法
  * 格式

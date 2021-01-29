@@ -1,4 +1,4 @@
-package cd.practice.dome.ProcessControlDome;
+package javaPracticeDome.cd.practice.dome.ProcessControlDome;
 /**
  * 选择结构之switch语句示例
  *

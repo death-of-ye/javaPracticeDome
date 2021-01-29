@@ -1,4 +1,4 @@
-package cd.practice.dome.OperatorDome;
+package javaPracticeDome.cd.practice.dome.OperatorDome;
 /**
  * 逻辑运算符实例
  * 概述：用于判读并且、或者、除非等逻辑关系的运算符

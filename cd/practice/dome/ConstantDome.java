@@ -1,3 +1,5 @@
+package javaPracticeDome.cd.practice.dome;
+
 /**
  * 这是一个解释常量类
  * */

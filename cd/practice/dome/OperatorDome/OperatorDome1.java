@@ -1,4 +1,4 @@
-package cd.practice.dome.OperatorDome;
+package javaPracticeDome.cd.practice.dome.OperatorDome;
 /**
  * 加法运算的特点
  * 1.如果运算符两边都是数值类型则进行加法运算

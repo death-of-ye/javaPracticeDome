@@ -1,3 +1,5 @@
+package javaPracticeDome.cd.practice.dome;
+
 /**
  * 理解标识符案例
  * 概述：标识符就是给类、方法、变量、常量等取名字的序列

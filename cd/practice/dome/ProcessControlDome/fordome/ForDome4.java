@@ -1,4 +1,5 @@
-package cd.practice.dome.ProcessControlDome.fordome;
+package javaPracticeDome.cd.practice.dome.ProcessControlDome.fordome;
+
 /**
  * 循环模式之for循环案例
  * 需求：计算所有的水仙花数之和

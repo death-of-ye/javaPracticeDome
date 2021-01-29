@@ -1,4 +1,5 @@
-package cd.practice.dome.ProcessControlDome.ifdome;
+package javaPracticeDome.cd.practice.dome.ProcessControlDome.ifdome;
+
 /**
  * 选择结构之if语句
  * 第一种格式

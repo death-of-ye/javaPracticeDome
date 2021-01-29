@@ -1,4 +1,4 @@
-package cd.practice.dome.OperatorDome;
+package javaPracticeDome.cd.practice.dome.OperatorDome;
 /**
  * 认识运算符案例
  * 概述：java中用于常量和变量之间运算的符号

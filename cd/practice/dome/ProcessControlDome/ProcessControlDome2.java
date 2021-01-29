@@ -1,4 +1,4 @@
-package cd.practice.dome.ProcessControlDome;
+package javaPracticeDome.cd.practice.dome.ProcessControlDome;
 /**
  * 案例：键盘输入两个数，求它们的和
  *
