@@ -1,4 +1,4 @@
-package cd.practice.dome.objectdome;
+package javaPracticeDome.cd.practice.dome.objectdome;
 /*测试手机类*/
 public class TestPhone {
     //main方法是程序入口，程序是从这开始的

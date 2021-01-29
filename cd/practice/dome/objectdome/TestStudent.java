@@ -1,4 +1,4 @@
-package cd.practice.dome.objectdome;
+package javaPracticeDome.cd.practice.dome.objectdome;
 /*
 * 测试student类
 * */

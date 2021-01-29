@@ -1,14 +1,11 @@
-package javaPracticeDome.cd.practice.dome.objectdome.abstractDome.abstractDome2;
+package javaPracticeDome.cd.practice.dome.KeyWordDome.KeyWordDome2;
 /**
  * static关键字
  * 概述：
- * 它代表静态的，它可以修饰类的方法、变量,被该类下的所有对象共享
- * 特点：
- * 修饰的类不能被继承，但可以继承别的类
- * 修饰的方法不能被重写
- * 修饰的变量即最终变量，就是java中的常量，只能赋值一次。
+ * 它代表静态的，它可以修饰类的方法、变量,
  * 调用方法：
  * 类名.
+ * static关键字修饰成员变量特点：被该类下的所有对象共享
  * 需求：定义研发部成员类，让每个成员自我介绍
  * Developer
  * 成员变量：姓名name 工作内容work，部门名字departmentName

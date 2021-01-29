@@ -1,4 +1,4 @@
-package cd.practice.dome.objectdome;
+package javaPracticeDome.cd.practice.dome.objectdome;
 /*定义一个手机类*/
 public class Phone {
     //成员变量 定义在类中，方法外

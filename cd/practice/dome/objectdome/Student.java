@@ -1,4 +1,4 @@
-package cd.practice.dome.objectdome;
+package javaPracticeDome.cd.practice.dome.objectdome;
 /*
 * 定义一个标准的JavaBean
 *

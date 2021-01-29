@@ -1,7 +1,7 @@
-package javaPracticeDome.cd.practice.dome.objectdome.abstractDome.abstractDome2;
+package javaPracticeDome.cd.practice.dome.KeyWordDome.KeyWordDome2;
 /*
-* 父类 研发部成员类
-* */
+ * 父类 研发部成员类
+ * */
 public class Developer {
     //成员变量
     //姓名
