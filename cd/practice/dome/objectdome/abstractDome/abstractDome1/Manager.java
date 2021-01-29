@@ -1,4 +1,4 @@
-package cd.practice.dome.objectdome.abstractDome.abstractDome1;
+package javaPracticeDome.cd.practice.dome.objectdome.abstractDome.abstractDome1;
 /*定义子类 经理*/
 public class Manager extends Employee {
     //特有的成员变量

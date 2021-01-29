@@ -1,4 +1,4 @@
-package cd.practice.dome.objectdome.abstractDome.abstractDome1;
+package javaPracticeDome.cd.practice.dome.objectdome.abstractDome.abstractDome1;
 /*定义子类 程序员*/
 public class Programmer extends Employee{
 

@@ -1,4 +1,4 @@
-package javaPracticeDome.cd.practice.dome.objectdome.abstractDome.abstractDome1;
+package cd.practice.dome.objectdome.abstractDome.abstractDome1;
 //测试类
 /*
 * 需求：在开发过程中有程序猿和经理两种角色，他们都有姓名、工号、工资等属性，都有工作等行为。

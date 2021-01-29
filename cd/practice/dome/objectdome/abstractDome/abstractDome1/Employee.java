@@ -1,4 +1,4 @@
-package cd.practice.dome.objectdome.abstractDome.abstractDome1;
+package javaPracticeDome.cd.practice.dome.objectdome.abstractDome.abstractDome1;
 
 /*定义父类 员工类*/
 public abstract class Employee {
